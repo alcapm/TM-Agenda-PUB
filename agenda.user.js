@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Agenda - Cargar Nuevo Recurso (con claves cifradas)
 // @namespace    http://tampermonkey.net/
-// @version     0.0.1
+// @version     0.0.2
 // @updateURL   https://raw.githubusercontent.com/alcapm/TM-Agenda-PUB/main/agenda.user.js
 // @downloadURL https://raw.githubusercontent.com/alcapm/TM-Agenda-PUB/main/agenda.user.js
 // @homepageURL https://github.com/alcapm/TM-Agenda-PUB/
